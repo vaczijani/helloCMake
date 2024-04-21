@@ -1,0 +1,2 @@
+# helloCMake
+trivial CMake project
